@@ -1,0 +1,10 @@
+What is the capital of Ireland?
+Dublin
+Where is Carraroe?
+In County Galway
+What is the capital of England?
+London
+What is the capital of France?
+Paris
+What is the capital of Germany?
+Berlin
